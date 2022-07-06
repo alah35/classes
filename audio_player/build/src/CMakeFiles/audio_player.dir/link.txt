@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/audio_player.dir/main.cpp.o -o audio_player  libmy_lib.a 

@@ -1,0 +1,6 @@
+/home/alah/HomeWorks/classes/audio_player/build/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/audio_player/build/CMakeFiles/rebuild_cache.dir
+/home/alah/HomeWorks/classes/audio_player/build/src/CMakeFiles/audio_player.dir
+/home/alah/HomeWorks/classes/audio_player/build/src/CMakeFiles/my_lib.dir
+/home/alah/HomeWorks/classes/audio_player/build/src/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/audio_player/build/src/CMakeFiles/rebuild_cache.dir
