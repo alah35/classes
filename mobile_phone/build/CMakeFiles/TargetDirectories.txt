@@ -1,0 +1,6 @@
+/home/alah/HomeWorks/classes/mobile_phone/build/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/mobile_phone/build/CMakeFiles/rebuild_cache.dir
+/home/alah/HomeWorks/classes/mobile_phone/build/src/CMakeFiles/mobile_phone.dir
+/home/alah/HomeWorks/classes/mobile_phone/build/src/CMakeFiles/my_lib.dir
+/home/alah/HomeWorks/classes/mobile_phone/build/src/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/mobile_phone/build/src/CMakeFiles/rebuild_cache.dir

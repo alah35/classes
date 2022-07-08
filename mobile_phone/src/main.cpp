@@ -1,7 +1,7 @@
 #include <iostream>
-#include "../include/phone_number.h"
-#include "../include/contact.h"
-#include "../include/phone.h"
+#include "phone_number.h"
+#include "contact.h"
+#include "phone.h"
 #include <vector>
 #include <limits>
 

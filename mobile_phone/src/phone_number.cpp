@@ -1,4 +1,4 @@
-#include "../include/phone_number.h"
+#include "phone_number.h"
 #include <iostream>
 
 PhoneNumber::PhoneNumber() {};

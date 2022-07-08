@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mobile_phone.dir/main.cpp.o -o mobile_phone  libmy_lib.a 
