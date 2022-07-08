@@ -1,21 +1,27 @@
 #include <iostream>
 #include "../include/phone_number.h"
 #include "../include/contact.h"
+#include "../include/phone.h"
 #include <vector>
 #include <limits>
 
 int main() {
-    std::vector<Contact> cl(4);
-    for (int i = 0; i < 4; i++) {
-        std::cout << "in buffer: " << std::cin.rdbuf()->in_avail() << std::endl;
-        std::cout << std::flush;
-//        while (std::cin.get() != '\n');
-        cl[i].create_contact();
-    }
+    Phone *phone = new Phone;
+    std::string command;
 
-    for (auto i: cl)
-        i.show_info();
+    while (command != "exit") {
+        std::cout << "Enter a command: " << std::endl;
+        std::getline(std::cin, command);
+        if (command == "add")
+            phone->new_contact();
+        if (command == "call")
+            phone->call();
+        if (command == "sms")
+            phone->message();
+    }
     
-     return 0;
+
+    delete phone;
+    return 0;
 }
 

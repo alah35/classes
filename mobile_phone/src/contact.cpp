@@ -1,6 +1,8 @@
 #include <iostream>
 #include "../include/contact.h"
 
+Contact::Contact() {};
+
 std::string Contact::get_name(){
     return name;
 }

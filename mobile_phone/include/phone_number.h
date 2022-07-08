@@ -9,6 +9,7 @@ class PhoneNumber {
     std::string make_as_num(std::string s); // this function returns string in the +7 format
 
     public:
+    PhoneNumber();
     std::string get_number();
     bool set_number(std::string s);
 };

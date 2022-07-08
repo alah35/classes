@@ -1,6 +1,8 @@
 #include "../include/phone_number.h"
 #include <iostream>
 
+PhoneNumber::PhoneNumber() {};
+
 std::string PhoneNumber::get_number() {
     if (number.empty()) {
         std::cout << "Number is empty" << std::endl;
@@ -20,6 +22,7 @@ bool PhoneNumber::is_valid(std::string &s) {
         }
 
     // from now on j actually is the size of the corrected string s
+    // and now we can make validity check
     s.resize(j);
 
     if ( (s[0] == '8' || s[0] == '7') && j == 11)

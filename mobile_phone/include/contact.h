@@ -8,6 +8,7 @@ class Contact {
     PhoneNumber number;
 
     public:
+    Contact();
     std::string get_name();
     void set_name(std::string s);
     std::string get_number();
