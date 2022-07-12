@@ -1,0 +1,6 @@
+/home/alah/HomeWorks/classes/desktop_simulator/build/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/desktop_simulator/build/CMakeFiles/rebuild_cache.dir
+/home/alah/HomeWorks/classes/desktop_simulator/build/src/CMakeFiles/desktop_sim.dir
+/home/alah/HomeWorks/classes/desktop_simulator/build/src/CMakeFiles/my_lib.dir
+/home/alah/HomeWorks/classes/desktop_simulator/build/src/CMakeFiles/edit_cache.dir
+/home/alah/HomeWorks/classes/desktop_simulator/build/src/CMakeFiles/rebuild_cache.dir

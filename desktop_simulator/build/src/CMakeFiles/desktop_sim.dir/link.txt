@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/desktop_sim.dir/main.cpp.o -o desktop_sim  libmy_lib.a 
